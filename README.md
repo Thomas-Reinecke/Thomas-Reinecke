@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomas-Reinecke
-- 👀 I’m interested in R, Python, Octave and generally in Data Science topics
-- 🌱 I’m currently focussing my learning on Data Visualization in R and Machine Learning in Octave and Python
+- 👀 I’m interested in R and Python, Machine & Deep Learning and generally in Data Science topics
+- 🌱 I’m currently focussing my learning on Data Visualization (in R and Python) and Machine & Deep Learning 
 - 💞️ I’m looking to collaborate on nothing specific at the moment. 
 - 📫 How to reach me: Please leave a message after the tone. 
 
